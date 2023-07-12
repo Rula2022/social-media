@@ -1,0 +1,22 @@
+.s{
+   
+    text-align: center;
+    background-color: aqua;
+}
+.s2{
+    display:inline-block;
+    width:33.33%;
+    background-color: antiquewhite;
+}
+div{
+    background-color:greenyellow;
+}
+.s3{
+background-color: antiquewhite;
+}
+.s4{
+background-color: gold;
+}
+.s5{
+background-color: gray;
+}
